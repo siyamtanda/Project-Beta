@@ -35,19 +35,19 @@ The app will be available at http://localhost:3000. Your default web browser wil
 
 ## Usage
 
-- Feature 1: Access the website in your browser.
-- Feature 1: Explore the trusted brands section.
-- Feature 1: Sort brands alphabetically.
-- Feature 1: Use the filter option to search for specific brands.
+- : Access the website in your browser.
+- : Explore the trusted brands section.
+- : Sort brands alphabetically.
+- : Use the filter option to search for specific brands.
 
 ## Project Structure
 
 The React app is structured as follows:
 
--public/: Contains the HTML template and assets.
--src/: Contains the React components and styles.
--styles/: Includes CSS styles for components.
--README.md: This documentation file.
+- :public/: Contains the HTML template and assets.
+- :src/: Contains the React components and styles.
+- :styles/: Includes CSS styles for components.
+- :README.md: This documentation file.
 
 ## Contributing
 
