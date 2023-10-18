@@ -1,0 +1,55 @@
+/* Section4.css */
+
+.section4 {
+  padding: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.brand-list {
+  display: grid; /* Use a grid layout */
+  grid-template-columns: repeat(5, 1fr); /* 5 columns */
+  grid-template-rows: repeat(3, 1fr); /* 3 rows */
+  gap: 20px; /* Add space between brands */
+}
+
+.brand-item {
+  max-width: 200px;
+  text-align: center;
+  
+  padding: 10px;
+}
+
+.brand-icon {
+  max-width: 50px;
+  display: block;
+  margin: 0 auto;
+}
+
+.brand-name {
+  font-size: 14px;
+  margin-top: 10px;
+  color: #333;
+}
+
+.controls {
+  margin-top: 20px;
+}
+
+button {
+  font-size: 14px;
+  padding: 5px 10px;
+  background-color: #7e1a9c;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+input[type="text"] {
+  font-size: 14px;
+  padding: 5px;
+  border: 1px solid #ccc;
+}

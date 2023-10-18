@@ -1,0 +1,52 @@
+.footer {
+  background-color: #7e1a9c;
+  width: 100%; /* Use the entire viewport width */
+  min-height: 300px; /* Set a minimum height for the footer */
+  color: #fff;
+  padding: 20px;
+   /* Position the footer at the bottom of the page */
+  bottom: 0%; /* Align the footer to the bottom */
+}
+
+.footer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.left {
+  width: 50%;
+}
+
+.left h2 {
+  font-size: 20px;
+}
+
+.address {
+  width: 40%;
+  text-align: left;
+  margin-left: 300px;
+  padding-left: 100px;
+}
+
+.address {
+  font-size: 16px;
+  text-align: left;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.column {
+  flex: 1;
+}
+
+.column h6 {
+  font-size: 14px;
+  margin-bottom: 10px;
+}

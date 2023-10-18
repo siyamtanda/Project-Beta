@@ -1,0 +1,41 @@
+/* Section3.css */
+
+.section3 {
+  padding: 20px; /* Add spacing around the component if needed */
+}
+
+.slider-horizontal {
+  display: flex; /* Display slides horizontally */
+  justify-content: space-between; /* Add space between slides */
+  align-items: center;
+}
+
+.slide {
+  flex: 1; /* Allow each slide to take up equal horizontal space */
+  padding: 20px; /* Add spacing around each slide if needed */
+}
+
+.image-container {
+  position: relative; /* Position the title and description relative to the image */
+}
+
+img {
+  max-width: 100%; /* Ensure the image fits within its container */
+}
+
+.slide-content {
+  position: absolute; /* Position title and description absolutely */
+  bottom: 0; /* Position at the bottom of the image */
+  left: 0; /* Position at the left of the image */
+  background: rgba(0, 0, 0, 0.7); /* Add a semi-transparent background for readability */
+  color: white; /* Set text color to white */
+  padding: 10px; /* Add padding for better visibility */
+}
+
+h6 {
+  margin: 0; /* Remove margin for the title */
+}
+
+p {
+  margin: 0; /* Remove margin for the description */
+}

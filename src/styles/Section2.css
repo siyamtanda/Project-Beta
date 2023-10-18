@@ -1,0 +1,39 @@
+.section2 {
+  padding: 60px;
+  text-align: left;
+}
+
+h1 {
+  font-size: 2.5rem; /* Adjust the font size as needed */
+  font-weight: bold;
+}
+
+.icon-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; /* Allow icons to wrap on smaller screens */
+}
+
+.icon {
+  flex: 1;
+  margin: 10px; /* Add margin to create space around each icon container */
+  padding: 20px;
+  background-color: #fff; /* Background color for each icon */
+  text-align: left;
+}
+
+.icon img {
+  width: 40px; /* Adjust the icon image size as needed */
+}
+
+h6 {
+  font-size: 1.2rem;
+  margin-top: 10px; /* Add margin to separate h6 from the icon image */
+  font-weight: bold;
+}
+
+p {
+  margin-top: 10px; /* Add margin to separate p from the icon image */
+  font-size: 12px;
+  margin-bottom: 10px;
+}

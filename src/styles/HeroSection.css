@@ -1,0 +1,39 @@
+.hero-section {
+  position: relative;
+  height: 102vh; /* Half of the viewport height */
+}
+
+.text-container {
+  position: absolute;
+  bottom: 5px; /* Adjust bottom spacing as needed */
+  left: 100px; /* Adjust left spacing as needed */
+  top: 200px;
+  text-align: left;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #fff; /* Text color */
+}
+
+h3 {
+  font-size: 1rem;
+  margin-bottom: 10px;
+  color: #fff; /* Text color */
+}
+
+button {
+  background-color: #7e1a9c;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  
+}
+
+.hero-image {
+  width: 100%; /* Set the image width to 100% of its container */
+}

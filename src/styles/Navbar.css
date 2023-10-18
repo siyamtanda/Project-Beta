@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #7e1a9c; /* Choose your desired background color */
+  padding: 20px 0;
+}
+
+.navbar-logo img {
+  width: 100px; /* Adjust the logo width as needed */
+  margin-left: 60px;
+}
+
+.navbar-links a {
+  text-decoration: none;
+  color: #fff; /* Link text color */
+  margin: 0 20px;
+}
+
+.navbar-button .letstalk-button {
+  background-color: #fff; /* Button background color */
+  color: #7e1a9c; /* Button text color */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  margin-right: 80px;
+}
+
