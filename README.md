@@ -1,8 +1,8 @@
-# Project Square - React App
+# Project Beta - React App
 
 ## Description
 
-This is the React front-end of Project Square, an application created as part of the Full Stack Developer Challenge by Accenture. The React app is designed to showcase a "Trusted by leading brands" section as per the provided Figma design.
+This is the React front-end of Project beta, an application created as part of the Full Stack Developer Challenge by Accenture. The React app is designed to showcase a "Trusted by leading brands" section as per the provided Figma design.
 
 ## Features
 
@@ -19,7 +19,7 @@ To run the React app locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/project-square.git
+   git clone https://github.com/siyamtanda/Project-Beta.git
 
 1.Navigate to the React App Directory
 
