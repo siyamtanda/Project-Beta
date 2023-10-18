@@ -35,10 +35,10 @@ The app will be available at http://localhost:3000. Your default web browser wil
 
 ## Usage
 
--Access the website in your browser.
--Explore the trusted brands section.
--Sort brands alphabetically.
--Use the filter option to search for specific brands.
+- Feature 1: Access the website in your browser.
+- Feature 1: Explore the trusted brands section.
+- Feature 1: Sort brands alphabetically.
+- Feature 1: Use the filter option to search for specific brands.
 
 ## Project Structure
 
