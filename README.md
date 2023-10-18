@@ -24,13 +24,13 @@ To run the React app locally, follow these steps:
 1.Navigate to the React App Directory
 
 cd project-square/frontend
-Install Dependencies
+- :Install Dependencies
 
-npm install
+- :npm install
 
 1.Start the Development Server
 
-npm start
+- :npm start
 The app will be available at http://localhost:3000. Your default web browser will open, and you'll see the Project Square React app.
 
 ## Usage
